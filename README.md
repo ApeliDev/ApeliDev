@@ -43,7 +43,18 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 ---
 
 ## 🌱 Currently Learning  
-I'm currently diving deeper into **cloud-based solutions**, **API integrations**, and **AI/ML technologies** to stay ahead in this fast-paced tech world.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cloud-Computing-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
+  <img src="https://img.shields.io/badge/API-Integrations-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Integrations" />
+  <img src="https://img.shields.io/badge/AI/ML-Technology-FFDD00?style=for-the-badge&logo=python&logoColor=black" alt="AI/ML Technologies" />
+</p>
+
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=4000&pause=1000&color=00C7B7&center=false&vCenter=true&width=435&lines=Exploring+Cloud+Computing...;Mastering+API+Integrations...;Diving+into+AI+and+ML..." alt="Typing SVG" />
+</p>
+
+
 
 ---
 
