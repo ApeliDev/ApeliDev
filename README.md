@@ -1,16 +1,9 @@
-# 👋 Hello, World! I'm Livingstone Apeli  
-
-<p align="center">
-  <img src="https://i.imgur.com/a/81eVLhf.jpg" alt="Livingstone Apeli" width="150" height="150" style="border-radius: 50%; border: 5px solid #00C853;"/>
-</p>
+# 👋 Hello, I'm Livingstone Apeli  
 
 🚀 **Transforming Ideas into Reality** through Web Development, App Development, and Automation!  
 🌍 **Let's build the future together!**
 
----
-## 🌟 About Me  
-
-A passionate **developer** committed to creating dynamic, scalable, and impactful solutions.  
+I am passionate **developer** committed to creating dynamic, scalable, and impactful solutions.  
 With a strong foundation in **Web Development**, **App Development**, and **Automation**, my goal is to craft user-centered experiences that seamlessly combine **innovation**, **functionality**, and **usability**.
 
 
@@ -26,10 +19,8 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 <p align="center">
   <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" />
   <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" />
-  <img src="https://img.icons8.com/fluency/64/000000/setting.png" alt="Automation" />
+ <img src="https://img.icons8.com/fluency/64/000000/setting.png" alt="Automation" />
 </p>
-
----
 
 ### 🖥️ Web Development  
 **Crafting responsive, interactive, and user-friendly websites**  
@@ -149,16 +140,135 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 
 ---
 
-## ⚡ My GitHub is a Canvas! 🎨  
+# ⚡ My GitHub is a Canvas! 🎨
 
 ```javascript
 const LivingstoneApeli = {
-  name: "Livingstone Apeli",
+  name: "Livingstone Apeli", 
+  bio: "A passionate developer committed to creating dynamic, scalable, and impactful solutions. With a foundation in Web Development, App Development, and Automation, I aim to craft user-centered experiences that seamlessly combine innovation, functionality, and usability.",
   fields: ["Web Development", "App Development", "Automation"],
-  languages: ["PHP", "Java", "Python", "Dart", "Kotlin", "JavaScript"],
-  frameworks: ["Laravel", "Django", "Flutter", "Spring Boot", "Node.js", "React.js", "Vue.js"],
-  email: "livingstoneapeli@gmail.com",
-  motto: "Let's build a better future, one line of code at a time!"
+  languages: [
+    "PHP", 
+    "Java", 
+    "Python", 
+    "Dart", 
+    "Kotlin", 
+    "JavaScript",
+    "TypeScript",
+    "Go",
+    "Ruby"
+  ],
+  frameworks: [
+    "Laravel", 
+    "Django", 
+    "Flutter", 
+    "Spring Boot", 
+    "Node.js", 
+    "React.js", 
+    "Vue.js",
+    "Express.js",
+    "Angular",
+    "GraphQL"
+  ],
+  tools: [
+    "Git",
+    "Docker",
+    "AWS",
+    "Kubernetes",
+    "Terraform",
+    "Nginx",
+    "Apache",
+    "Jenkins"
+  ],
+  email: "livingstoneapeli@gmail.com", 
+  motto: "Let's build a better future, one line of code at a time!",
+  socialLinks: {
+    linkedin: "https://www.linkedin.com/in/livingstoneapeli/",
+    github: "https://github.com/livingstoneapeli",
+    portfolio: "https://www.apelisolutions.com/"
+  },
+
+  displayIntro() {
+    console.log(`Hello! I'm ${this.name}.`);
+    console.log(this.bio);
+    console.log(`My motto: "${this.motto}"`);
+  },
+
+  listFields() {
+    console.log("🔧 Fields of Expertise:");
+    this.fields.forEach(field => {
+      console.log(`- ${field}`);
+    });
+  },
+  
+  listLanguages() {
+    console.log("💻 Programming Languages I Use:");
+    this.languages.forEach(language => {
+      console.log(`- ${language}`);
+    });
+  },
+
+  listFrameworksAndTools() {
+    console.log("⚙️ Frameworks & Tools I Work With:");
+    this.frameworks.forEach(framework => {
+      console.log(`- ${framework}`);
+    });
+    console.log("🛠️ Tools I Use:");
+    this.tools.forEach(tool => {
+      console.log(`- ${tool}`);
+    });
+  },
+
+  connect() {
+    console.log("📬 Let's Connect!");
+    console.log(`Email me: ${this.email}`);
+    console.log(`LinkedIn: ${this.socialLinks.linkedin}`);
+    console.log(`GitHub: ${this.socialLinks.github}`);
+    console.log(`Portfolio: ${this.socialLinks.portfolio}`);
+  },
+
+  interactiveMessage() {
+    const message = [
+      "Welcome to my world of code!",
+      "Feel free to browse my GitHub projects.",
+      "Let's collaborate on exciting tech projects!",
+      "Don't hesitate to reach out for new opportunities!"
+    ];
+    const randomMessage = message[Math.floor(Math.random() * message.length)];
+    console.log(randomMessage);
+  },
+  guessTheLanguageGame() {
+    const randomLanguage = this.languages[Math.floor(Math.random() * this.languages.length)];
+    console.log("\n🎮 Let's Play a Game! 🎮");
+    console.log("Guess which programming language I'm thinking of!");
+
+    // Simulate a prompt asking for input and a simple comparison
+    const userGuess = prompt("Enter your guess: ");
+    if (userGuess.toLowerCase() === randomLanguage.toLowerCase()) {
+      console.log("🎉 Correct! Great job!");
+    } else {
+      console.log(`😢 Incorrect! The correct answer was: ${randomLanguage}`);
+    }
+  },
+  displayDetails() {
+    this.displayIntro();
+    console.log("\n");
+    this.listFields();
+    console.log("\n");
+    this.listLanguages();
+    console.log("\n");
+    this.listFrameworksAndTools();
+    console.log("\n");
+    this.connect();
+    console.log("\n");
+    this.interactiveMessage();
+    console.log("\n");
+    this.guessTheLanguageGame();
+  }
 };
 
-console.log("Welcome to my world of code!");
+LivingstoneApeli.displayDetails();
+console.log("🔵 Welcome to my world of code! Explore and collaborate!");
+
+
+
