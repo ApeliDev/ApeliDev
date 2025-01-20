@@ -21,23 +21,24 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 ## 💻 Tech Stack  
 
 ### 🌐 Languages  
-- **PHP**  
-- **Java**  
-- **Python**  
-- **Dart**  
-- **Kotlin**  
-- **JavaScript**  
+- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
+- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
+- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
 
 ### ⚙️ Frameworks & Tools  
-- **Laravel**  
-- **Django**  
-- **Flutter**  
-- **Spring Boot**  
-- **Node.js**  
-- **Express.js**  
-- **React.js**  
-- **Vue.js**  
-- **Bootstrap**  
+- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
+- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
+- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)  
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
+- ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
+
 
 ---
 
