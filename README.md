@@ -1,20 +1,65 @@
 # 👋 Hello, World! I'm Livingstone Apeli  
 
+<p align="center">
+  <img src="https://i.imgur.com/a/81eVLhf.jpg" alt="Livingstone Apeli" width="150" height="150" style="border-radius: 50%; border: 5px solid #00C853;"/>
+</p>
+
 🚀 **Transforming Ideas into Reality** through Web Development, App Development, and Automation!  
-🌍 **Let's build the future together!**  
+🌍 **Let's build the future together!**
 
 ---
-
 ## 🌟 About Me  
-Hello! I'm **Livingstone Apeli**, a passionate **developer** with expertise in creating dynamic and scalable solutions.  
-With a strong foundation in **Web Development**, **App Development**, and **Automation**, I aim to craft experiences that blend functionality with innovation.
+
+A passionate **developer** committed to creating dynamic, scalable, and impactful solutions.  
+With a strong foundation in **Web Development**, **App Development**, and **Automation**, my goal is to craft user-centered experiences that seamlessly combine **innovation**, **functionality**, and **usability**.
+
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let's%20Collaborate-00C853?style=for-the-badge&logo=rocket" alt="Collaboration Badge"/>
+</p>
+
 
 ## 💡 Areas of Expertise  
-- **Web Development**: Crafting responsive, interactive, and user-friendly websites.  
-- **App Development**: Building intuitive and efficient mobile applications for both Android and iOS.  
-- **Automation**: Streamlining workflows to save time and enhance productivity.  
+
+<p align="center">
+  <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" />
+  <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" />
+  <img src="https://img.icons8.com/fluency/64/000000/setting.png" alt="Automation" />
+</p>
+
+---
+
+### 🖥️ Web Development  
+**Crafting responsive, interactive, and user-friendly websites**  
+- Frontend frameworks: **React.js**, **Vue.js**, **Bootstrap**  
+- Backend technologies: **PHP (Laravel), Node.js, Django**  
+- Focus on **performance, accessibility, and modern UI/UX principles**
+
+---
+
+### 📱 App Development  
+**Building intuitive and efficient mobile applications**  
+- Platforms: **Android & iOS**  
+- Tools & frameworks: **Flutter, Kotlin, Dart**  
+- Emphasis on **smooth user experience and scalability**
+
+---
+
+### ⚙️ Automation  
+**Streamlining workflows to enhance productivity**  
+- Automating repetitive tasks with **Python, APIs, and scripting**  
+- Integration with third-party services to boost efficiency  
+- Implementing solutions for **business process optimization**
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-00C853?style=for-the-badge&logo=rocket" alt="Let's Build Something Great" />
+</p>
+
+
 
 ---
 
