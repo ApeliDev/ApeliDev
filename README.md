@@ -59,15 +59,48 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 ---
 
 ## ✨ Let’s Connect!  
-📧 Email: **[livingstoneapeli@gmail.com](mailto:livingstoneapeli@gmail.com)**  
-💼 LinkedIn: [Livingstone Apeli](https://www.linkedin.com/in/livingstoneapeli/)  
-🌐 Portfolio: [Apeli Solutions](https://www.apelisolutions.com/)  
 
----
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&pause=1000&color=1DA1F2&center=false&vCenter=true&width=600&lines=Connect+with+Apeli+Solutions;Make+It+Happen" alt="Typing SVG" />
+</p>
+
+<p align="left">
+  <a href="mailto:livingstoneapeli@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/livingstoneapeli/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.apelisolutions.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+ 
 
 ## 🌟 Fun Facts  
-- 💡 **Philosophy**: Every problem has a solution; it just needs the right code!  
-- 🎮 When I’m not coding, you’ll find me gaming or exploring new tech gadgets.  
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50px" alt="PHP" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=550&lines=💡+Coding+is+an+art...;🎮+Gaming+relaxes+my+mind...;☕+Fueled+by+coffee+and+creativity!;🌍+Building+solutions+for+the+world" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="200px" alt="Coding Animation" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Coding%20Enthusiast-%F0%9F%92%BB-blue?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-orange?style=for-the-badge"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coffee%20Addict-%E2%98%95-brown?style=for-the-badge"></a>
+</p>
+
 
 ---
 
