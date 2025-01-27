@@ -28,7 +28,6 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 - Backend technologies: **PHP (Laravel), Node.js, Django**  
 - Focus on **performance, accessibility, and modern UI/UX principles**
 
----
 
 ### 📱 App Development  
 **Building intuitive and efficient mobile applications**  
@@ -36,7 +35,6 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 - Tools & frameworks: **Flutter, Kotlin, Dart**  
 - Emphasis on **smooth user experience and scalability**
 
----
 
 ### ⚙️ Automation  
 **Streamlining workflows to enhance productivity**  
@@ -44,15 +42,11 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 - Integration with third-party services to boost efficiency  
 - Implementing solutions for **business process optimization**
 
----
 
 <p align="center">
   <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-00C853?style=for-the-badge&logo=rocket" alt="Let's Build Something Great" />
 </p>
 
-
-
----
 
 ## 💻 Tech Stack  
 
@@ -76,8 +70,6 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 
 
----
-
 ## 🌱 Currently Learning  
 
 <p align="left">
@@ -91,8 +83,6 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 </p>
 
 
-
----
 
 ## ✨ Let’s Connect!  
 
@@ -137,8 +127,6 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
   <a href="#"><img src="https://img.shields.io/badge/Coffee%20Addict-%E2%98%95-brown?style=for-the-badge"></a>
 </p>
 
-
----
 
 # ⚡ My GitHub is a Canvas! 🎨
 
