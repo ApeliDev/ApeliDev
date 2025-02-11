@@ -17,10 +17,11 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 ## 💡 Areas of Expertise  
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" />
-  <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" />
- <img src="https://img.icons8.com/fluency/64/000000/setting.png" alt="Automation" />
+  <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" width="64" height="64"/>
+  <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" width="64" height="64"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Windows_Settings_icon.svg" alt="Automation" width="64" height="64"/>
 </p>
+
 
 ### 🖥️ Web Development  
 **Crafting responsive, interactive, and user-friendly websites**  
