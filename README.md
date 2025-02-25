@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Livingstone Apeli  
+# 👋 Hello, I'm Apeli  
 
 🚀 **Transforming Ideas into Reality** through Web Development, App Development, and Automation!  
 🌍 **Let's build the future together!**
