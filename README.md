@@ -70,7 +70,12 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 - ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
 - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
 
-
+### 🗄️ State Management  
+- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
+- ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)  
+- ![React Redux](https://img.shields.io/badge/-React%20Redux-764ABC?logo=react&logoColor=white)  
+- ![Redux Provider](https://img.shields.io/badge/-Redux%20Provider-764ABC?logo=redux&logoColor=white)  
+  
 ## 🌱 Currently Learning  
 
 <p align="left">
