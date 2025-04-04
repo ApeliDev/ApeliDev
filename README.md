@@ -97,10 +97,10 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 </p>
 
 <p align="left">
-  <a href="mailto:livingstoneapeli@gmail.com">
+  <a href="mailto:apelinifa@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/livingstoneapeli/" target="_blank">
+  <a href="https://www.linkedin.com/in/apeli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.apelisolutions.com/" target="_blank">
@@ -137,8 +137,8 @@ With a strong foundation in **Web Development**, **App Development**, and **Auto
 # ⚡ My GitHub is a Canvas! 🎨
 
 ```javascript
-const LivingstoneApeli = {
-  name: "Livingstone Apeli", 
+const Apeli = {
+  name: " Apeli", 
   bio: "A passionate developer committed to creating dynamic, scalable, and impactful solutions. With a foundation in Web Development, App Development, and Automation, I aim to craft user-centered experiences that seamlessly combine innovation, functionality, and usability.",
   fields: ["Web Development", "App Development", "Automation"],
   languages: [
@@ -174,11 +174,11 @@ const LivingstoneApeli = {
     "Apache",
     "Jenkins"
   ],
-  email: "livingstoneapeli@gmail.com", 
+  email: "apeli@gmail.com", 
   motto: "Let's build a better future, one line of code at a time!",
   socialLinks: {
-    linkedin: "https://www.linkedin.com/in/livingstoneapeli/",
-    github: "https://github.com/livingstoneapeli",
+    linkedin: "https://www.linkedin.com/in/apeli/",
+    github: "https://github.com/apeli",
     portfolio: "https://www.apelisolutions.com/"
   },
 
@@ -261,7 +261,7 @@ const LivingstoneApeli = {
   }
 };
 
-LivingstoneApeli.displayDetails();
+Apeli.displayDetails();
 console.log("🔵 Welcome to my world of code! Explore and collaborate!");
 
 
