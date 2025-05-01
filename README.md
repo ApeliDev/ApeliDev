@@ -3,8 +3,7 @@
 🚀 **Transforming Ideas into Reality** through Web Development, App Development, and Automation!  
 🌍 **Let's build the future together!**
 
-I am passionate **developer** committed to creating dynamic, scalable, and impactful solutions.  
-With a strong foundation in **Web Development**, **App Development**, and **Automation**, my goal is to craft user-centered experiences that seamlessly combine **innovation**, **functionality**, and **usability**.
+I am a software developer skilled in building web based applications and mobile applications
 
 
 ---
