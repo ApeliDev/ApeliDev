@@ -107,10 +107,19 @@ const apeli = {
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=apeli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apeli&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ApeliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApeliDev&theme=tokyonight&hide_border=true" height="170px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApeliDev&theme=tokyonight&hide_border=true&layout=compact" height="170px"/>
 </div>
 
+<!-- More reliable activity graph options: -->
+<div align="center">
+  <!-- Option 1: Using GitHub's own activity graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApeliDev&theme=react-dark&hide_border=true&area=true" width="90%"/>
+  
+  <!-- Option 2: Alternative service -->
+  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=ApeliDev&theme=react-dark&hide_border=true" width="90%"/> -->
+</div>
 ## Let's Connect
 
 <div align="center">
