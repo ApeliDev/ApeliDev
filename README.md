@@ -53,6 +53,7 @@ const apeli = {
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 ### Mobile
+![PHP Native](https://img.shields.io/badge/-PHP_Native-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
@@ -112,13 +113,9 @@ const apeli = {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApeliDev&theme=tokyonight&hide_border=true&layout=compact" height="170px"/>
 </div>
 
-<!-- More reliable activity graph options: -->
+<!-- activity: -->
 <div align="center">
-  <!-- Option 1: Using GitHub's own activity graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApeliDev&theme=react-dark&hide_border=true&area=true" width="90%"/>
-  
-  <!-- Option 2: Alternative service -->
-  <!-- <img src="https://activity-graph.herokuapp.com/graph?username=ApeliDev&theme=react-dark&hide_border=true" width="90%"/> -->
 </div>
 ## Let's Connect
 
