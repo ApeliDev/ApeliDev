@@ -1,267 +1,134 @@
-# 👋 Hello, I'm Apeli  
+# Apeli
 
-🚀 **Transforming Ideas into Reality** through Web Development, App Development, and Automation!  
-🌍 **Let's build the future together!**
-
-I am a software developer skilled in building web based applications and mobile applications
-
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's%20Collaborate-00C853?style=for-the-badge&logo=rocket" alt="Collaboration Badge"/>
-</p>
-
-
-## 💡 Areas of Expertise  
-
-<p align="center">
-  <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" width="64" height="64"/>
-  <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" width="64" height="64"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Windows_Settings_icon.svg" alt="Automation" width="64" height="64"/>
-</p>
-
-
-### 🖥️ Web Development  
-**Crafting responsive, interactive, and user-friendly websites**  
-- Frontend frameworks: **React.js**, **Vue.js**, **Bootstrap**  
-- Backend technologies: **PHP (Laravel), Node.js, Django**  
-- Focus on **performance, accessibility, and modern UI/UX principles**
-
-
-### 📱 App Development  
-**Building intuitive and efficient mobile applications**  
-- Platforms: **Android & iOS**  
-- Tools & frameworks: **Flutter, Kotlin, Dart**  
-- Emphasis on **smooth user experience and scalability**
-
-
-### ⚙️ Automation  
-**Streamlining workflows to enhance productivity**  
-- Automating repetitive tasks with **Python, APIs, and scripting**  
-- Integration with third-party services to boost efficiency  
-- Implementing solutions for **business process optimization**
-
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Let's%20Build%20Something%20Great-00C853?style=for-the-badge&logo=rocket" alt="Let's Build Something Great" />
-</p>
-
-
-## 💻 Tech Stack  
-
-### 🌐 Languages  
-- ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-- ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
-- ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-
-### ⚙️ Frameworks & Tools  
-- ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-- ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
-- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white)  
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  
-- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)  
-- ![React.js](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
-- ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)  
-
-### 🗄️ State Management  
-- ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)  
-- ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)  
-- ![React Redux](https://img.shields.io/badge/-React%20Redux-764ABC?logo=react&logoColor=white)  
-- ![Redux Provider](https://img.shields.io/badge/-Redux%20Provider-764ABC?logo=redux&logoColor=white)  
+<div align="center">
   
-## 🌱 Currently Learning  
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-1337-blue?style=for-the-badge)
+  [![Email](https://img.shields.io/badge/Email-apeli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apeli@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apeli/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.apelisolutions.com/)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloud-Computing-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloud Computing" />
-  <img src="https://img.shields.io/badge/API-Integrations-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Integrations" />
-  <img src="https://img.shields.io/badge/AI/ML-Technology-FFDD00?style=for-the-badge&logo=python&logoColor=black" alt="AI/ML Technologies" />
-</p>
+</div>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=20&duration=4000&pause=1000&color=00C7B7&center=false&vCenter=true&width=435&lines=Exploring+Cloud+Computing...;Mastering+API+Integrations...;Diving+into+AI+and+ML..." alt="Typing SVG" />
-</p>
+## Hey there 👋
 
-
-
-## ✨ Let’s Connect!  
-
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&duration=4000&pause=1000&color=1DA1F2&center=false&vCenter=true&width=600&lines=Connect+with+Apeli+Solutions;Make+It+Happen" alt="Typing SVG" />
-</p>
-
-<p align="left">
-  <a href="mailto:apelinifa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/apeli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.apelisolutions.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-1DA1F2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
- 
-
-## 🌟 Fun Facts  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50px" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50px" alt="Java" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="50px" alt="PHP" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F39C12&center=true&vCenter=true&width=550&lines=💡+Coding+is+an+art...;🎮+Gaming+relaxes+my+mind...;☕+Fueled+by+coffee+and+creativity!;🌍+Building+solutions+for+the+world" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" width="200px" alt="Coding Animation" />
-</p>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Coding%20Enthusiast-%F0%9F%92%BB-blue?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gamer-%F0%9F%8E%AE-orange?style=for-the-badge"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Coffee%20Addict-%E2%98%95-brown?style=for-the-badge"></a>
-</p>
-
-
-# ⚡ My GitHub is a Canvas! 🎨
+I'm a software developer passionate about building exceptional web and mobile applications. I transform ideas into reality through clean code and user-centered design.
 
 ```javascript
-const Apeli = {
-  name: " Apeli", 
-  bio: "A passionate developer committed to creating dynamic, scalable, and impactful solutions. With a foundation in Web Development, App Development, and Automation, I aim to craft user-centered experiences that seamlessly combine innovation, functionality, and usability.",
-  fields: ["Web Development", "App Development", "Automation"],
-  languages: [
-    "PHP", 
-    "Java", 
-    "Python", 
-    "Dart", 
-    "Kotlin", 
-    "JavaScript",
-    "TypeScript",
-    "Go",
-    "Ruby"
-  ],
-  frameworks: [
-    "Laravel", 
-    "Django", 
-    "Flutter", 
-    "Spring Boot", 
-    "Node.js", 
-    "React.js", 
-    "Vue.js",
-    "Express.js",
-    "Angular",
-    "GraphQL"
-  ],
-  tools: [
-    "Git",
-    "Docker",
-    "AWS",
-    "Kubernetes",
-    "Terraform",
-    "Nginx",
-    "Apache",
-    "Jenkins"
-  ],
-  email: "apeli@gmail.com", 
-  motto: "Let's build a better future, one line of code at a time!",
-  socialLinks: {
-    linkedin: "https://www.linkedin.com/in/apeli/",
-    github: "https://github.com/apeli",
-    portfolio: "https://www.apelisolutions.com/"
-  },
+const apeli = {
+  focus: "Building solutions that matter",
+  currently: "Learning Cloud Computing, API Integrations, and AI/ML",
+  challenge: "One commit at a time",
+}
+```
 
-  displayIntro() {
-    console.log(`Hello! I'm ${this.name}.`);
-    console.log(this.bio);
-    console.log(`My motto: "${this.motto}"`);
-  },
+## Skills & Expertise
 
-  listFields() {
-    console.log("🔧 Fields of Expertise:");
-    this.fields.forEach(field => {
-      console.log(`- ${field}`);
-    });
-  },
+<div align="center">
+
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+### Mobile
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+
+</div>
+
+## Areas of Focus
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/000000/web.png" alt="Web Development" width="48"/>
+      <br />
+      <b>Web Development</b>
+      <br />
+      Modern, responsive interfaces with robust backends
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/000000/android-os.png" alt="App Development" width="48"/>
+      <br />
+      <b>Mobile Development</b>
+      <br />
+      Native & cross-platform apps with seamless experiences
+    </td>
+    <td align="center" width="33%">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/Windows_Settings_icon.svg" alt="Automation" width="48"/>
+      <br />
+      <b>Automation</b>
+      <br />
+      Streamlining workflows and business processes
+    </td>
+  </tr>
+</table>
+
+## Currently Learning
+
+<div align="center">
   
-  listLanguages() {
-    console.log("💻 Programming Languages I Use:");
-    this.languages.forEach(language => {
-      console.log(`- ${language}`);
-    });
-  },
+  ![Cloud Computing](https://img.shields.io/badge/Cloud-Computing-00C7B7?style=for-the-badge&logo=cloudflare&logoColor=white)
+  ![API Integrations](https://img.shields.io/badge/API-Integrations-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![AI/ML](https://img.shields.io/badge/AI/ML-Technology-FFDD00?style=for-the-badge&logo=python&logoColor=black)
+  
+</div>
 
-  listFrameworksAndTools() {
-    console.log("⚙️ Frameworks & Tools I Work With:");
-    this.frameworks.forEach(framework => {
-      console.log(`- ${framework}`);
-    });
-    console.log("🛠️ Tools I Use:");
-    this.tools.forEach(tool => {
-      console.log(`- ${tool}`);
-    });
-  },
+## GitHub Stats
 
-  connect() {
-    console.log("📬 Let's Connect!");
-    console.log(`Email me: ${this.email}`);
-    console.log(`LinkedIn: ${this.socialLinks.linkedin}`);
-    console.log(`GitHub: ${this.socialLinks.github}`);
-    console.log(`Portfolio: ${this.socialLinks.portfolio}`);
-  },
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=apeli&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apeli&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170px"/>
+</div>
 
-  interactiveMessage() {
-    const message = [
-      "Welcome to my world of code!",
-      "Feel free to browse my GitHub projects.",
-      "Let's collaborate on exciting tech projects!",
-      "Don't hesitate to reach out for new opportunities!"
-    ];
-    const randomMessage = message[Math.floor(Math.random() * message.length)];
-    console.log(randomMessage);
-  },
-  guessTheLanguageGame() {
-    const randomLanguage = this.languages[Math.floor(Math.random() * this.languages.length)];
-    console.log("\n🎮 Let's Play a Game! 🎮");
-    console.log("Guess which programming language I'm thinking of!");
+## Let's Connect
 
-    // Simulate a prompt asking for input and a simple comparison
-    const userGuess = prompt("Enter your guess: ");
-    if (userGuess.toLowerCase() === randomLanguage.toLowerCase()) {
-      console.log("🎉 Correct! Great job!");
-    } else {
-      console.log(`😢 Incorrect! The correct answer was: ${randomLanguage}`);
-    }
-  },
-  displayDetails() {
-    this.displayIntro();
-    console.log("\n");
-    this.listFields();
-    console.log("\n");
-    this.listLanguages();
-    console.log("\n");
-    this.listFrameworksAndTools();
-    console.log("\n");
-    this.connect();
-    console.log("\n");
-    this.interactiveMessage();
-    console.log("\n");
-    this.guessTheLanguageGame();
-  }
-};
+<div align="center">
+  <p>
+    <i>Let's build a better future, one line of code at a time!</i>
+  </p>
 
-Apeli.displayDetails();
-console.log("🔵 Welcome to my world of code! Explore and collaborate!");
+  <a href="https://www.linkedin.com/in/apeli/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:apeli@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.apelisolutions.com/">
+    <img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+  </a>
+</div>
 
-
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
