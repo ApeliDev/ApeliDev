@@ -11,16 +11,17 @@
 
 ## Make it Happen!
 
-I'm a software developer passionate about building exceptional web and mobile applications. I transform ideas into reality through clean code and user-centered design.
+I'm a software developer passionate about building exceptional web and mobile applications.  
+I also explore **cybersecurity, ethical hacking, and system security**, bringing a hacker’s mindset to problem-solving.  
+I transform ideas into reality through clean code, secure practices, and user-centered design.
 
 ```javascript
 const apelisoltech = {
   focus: "Building solutions that matter",
-  currently: "Cloud Computing, API Integrations, and AI/ML",
+  currently: "Cloud Computing, API Integrations, AI/ML, and Cybersecurity",
   hacking: "Exploring cybersecurity & ethical hacking",
   challenge: "One commit at a time",
 }
-
 ```
 
 ## Skills & Expertise
