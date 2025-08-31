@@ -9,7 +9,7 @@
 
 </div>
 
-## Hey there 👋
+## Make it Happen!
 
 I'm a software developer passionate about building exceptional web and mobile applications. I transform ideas into reality through clean code and user-centered design.
 
