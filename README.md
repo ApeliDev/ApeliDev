@@ -3,9 +3,9 @@
 <div align="center">
   
   ![Profile Views](https://img.shields.io/badge/Profile%20Views-1337-blue?style=for-the-badge)
-  [![Email](https://img.shields.io/badge/Email-apeli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apeli@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-livingstoneapeli%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:livingstoneapeli@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apeli/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.apelisolutions.com/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.apelisoltech.co.ke/)
 
 </div>
 
@@ -14,9 +14,9 @@
 I'm a software developer passionate about building exceptional web and mobile applications. I transform ideas into reality through clean code and user-centered design.
 
 ```javascript
-const apeli = {
+const apelisoltech = {
   focus: "Building solutions that matter",
-  currently: "Learning Cloud Computing, API Integrations, and AI/ML",
+  currently: "Cloud Computing, API Integrations, and AI/ML",
   challenge: "One commit at a time",
 }
 ```
