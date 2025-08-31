@@ -17,8 +17,10 @@ I'm a software developer passionate about building exceptional web and mobile ap
 const apelisoltech = {
   focus: "Building solutions that matter",
   currently: "Cloud Computing, API Integrations, and AI/ML",
+  hacking: "Exploring cybersecurity & ethical hacking",
   challenge: "One commit at a time",
 }
+
 ```
 
 ## Skills & Expertise
@@ -127,10 +129,10 @@ const apelisoltech = {
   <a href="https://www.linkedin.com/in/apeli/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:apeli@gmail.com">
+  <a href="mailto:livingstoneapeli@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.apelisolutions.com/">
+  <a href="https://www.apelisoltech.co.ke/">
     <img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
