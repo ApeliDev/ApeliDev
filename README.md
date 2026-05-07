@@ -108,18 +108,7 @@ const apelisoltech = {
   
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ApeliDev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="170px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ApeliDev&theme=tokyonight&hide_border=true" height="170px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ApeliDev&theme=tokyonight&hide_border=true&layout=compact" height="170px"/>
-</div>
-
-<!-- activity: -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ApeliDev&theme=react-dark&hide_border=true&area=true" width="90%"/>
-</div>
 ## Let's Connect
 
 <div align="center">
@@ -133,7 +122,7 @@ const apelisoltech = {
   <a href="mailto:livingstoneapeli@gmail.com">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.apelisoltech.co.ke/">
+  <a href="https://www.apelisoltech.com/">
     <img src="https://img.shields.io/badge/website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </div>
