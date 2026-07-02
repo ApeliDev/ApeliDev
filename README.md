@@ -1,15 +1,16 @@
-# Apeli
+# 👋 Hi, I'm Apeli
 
-```javascript
-const apelisoltech = {
-  focus: "Building solutions that matter",
-  currently: "Cloud Computing, API Integrations, AI/ML, and Cybersecurity",
-  hacking: "Exploring cybersecurity & ethical hacking",
-  challenge: "One commit at a time",
-}
+```ts
+const apeli = {
+  role: "Full-Stack Developer & AI Engineer",
+  stack: {
+    backend: ["Laravel", "FastAPI", "Phoenix (Elixir)"],
+    frontend: ["React", "TypeScript", "Next.js"],
+    ai: ["LLMs", "AI Agents", "RAG", "OpenAI", "LangChain"],
+    cloud: ["Docker", "AWS", "Cloudflare", "Linux"],
+    databases: ["PostgreSQL", "MySQL", "Redis", "MongoDB"]
+  },
+  focus: "Building scalable SaaS, AI-powered applications & cloud-native systems.",
+  motto: "Engineering solutions that scale."
+};
 ```
-
-
-
-
-
